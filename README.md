@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikbalt
+- 👋 Hi, I’m IKBAL
 - 👀 I’m interested in Machine Learning and Application Development
 - 🌱 I’m currently learning Devops
 - 📫 How to reach me e: ikbaltaqyudin@gmail.com
