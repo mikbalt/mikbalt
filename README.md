@@ -1,6 +1,6 @@
 - 👋 Hi, I’m IKBAL
 - 👀 I’m interested in Machine Learning and Application Development
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently working as Test Factory Engineer @ Idemia
 - 📫 How to reach me e: ikbaltaqyudin@gmail.com
 
 <!---
