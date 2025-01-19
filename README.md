@@ -1,6 +1,6 @@
-- 👋 Hi, I’m IKBAL
-- 👀 I’m interested in Machine Learning and Application Development
-- 🌱 I’m currently working as Test Factory Engineer @ Idemia
+- 👋 Hi, I’m Ikbal
+- 👀 I’m interested in Application Development, Automation Testing, and AI
+- 🌱 I’m currently working @ Idemia as QA Engineer 
 - 📫 How to reach me e: ikbaltaqyudin@gmail.com
 
 <!---
