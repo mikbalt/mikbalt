@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikbal
-- 👀 I’m interested in Application Development, Automation Testing, and AI
-- 🌱 I’m currently working @ Idemia as QA Engineer 
+- 👀 I’m interested in Software Development(include DevOps), Automation Testing, and AI
+- 🌱 I’m currently working @Idemia as QA Engineer 
 - 📫 Contact me on email : ikbaltaqyudin@gmail.com
 
 <!---
